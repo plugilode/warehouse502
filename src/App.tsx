@@ -261,7 +261,7 @@ export default function App() {
               </h1>
             </div>
 
-            <div className="fade-up relative mx-auto flex w-full max-w-[1500px] flex-col items-start justify-between gap-6 px-6 pb-8 lg:flex-row lg:items-end lg:px-10">
+            <div className="fade-up relative mx-auto flex w-full max-w-[1500px] flex-col items-start justify-between gap-6 px-6 pb-24 lg:flex-row lg:items-end lg:px-10">
               <div className="max-w-md rounded-2xl bg-[#090b12]/45 p-4 backdrop-blur-sm lg:bg-transparent lg:p-0 lg:backdrop-blur-none">
                 <p className="text-base leading-relaxed text-slate-100 sm:text-lg">
                   Warehouse 502 LLC delivers secure storage, freight handling, and fulfillment
@@ -370,7 +370,7 @@ export default function App() {
 
         {/* Why us: the boxes leave the racks and form the 502 */}
         <section id="stats" data-chapter className="relative min-h-[160vh]">
-          <div className="absolute inset-x-0 bottom-[33vh] mx-auto w-full max-w-[1500px] px-6 text-center lg:px-10">
+          <div className="absolute inset-x-0 bottom-[38vh] mx-auto w-full max-w-[1500px] px-6 text-center lg:px-10">
             <Reveal>
               <Eyebrow>Why Warehouse 502</Eyebrow>
               <h2 className="font-display mt-3 text-[clamp(2.6rem,5.5vw,5.5rem)] font-black uppercase leading-[0.92] tracking-tight text-white [text-shadow:0_4px_40px_rgba(0,0,0,0.7)]">
